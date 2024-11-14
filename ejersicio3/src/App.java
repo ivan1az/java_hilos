@@ -1,8 +1,8 @@
 public class App {
 
-    public static int h= 3;
-    public static int n= 10;
-    public static int x= 1;
+    public static int h= 3;//numero de hilos
+    public static int n= 10;//numero de terminos de la serie
+    public static int x= 1;//base de la serie exponencial
      
     public static void main(String[] args) throws Exception {
         //matriz resultado
